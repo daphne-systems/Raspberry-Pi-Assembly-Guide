@@ -11,6 +11,7 @@ This guide walks you through **putting together a Raspberry Pi** from a kit like
 - HDMI cable
 - Monitor, keyboard, and mouse
 
+  https://m.media-amazon.com/images/I/81QAWSjYuHL._AC_UF1000,1000_QL80_.jpg
 ---
 
 ## Step-by-Step Instructions
